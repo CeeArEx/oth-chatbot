@@ -47,7 +47,7 @@ It is highly recommended to use a virtual environment.
 
 ```bash
 # Create and activate a virtual environment
-python -m venv venv
+python3.11 -m venv venv
 source venv/bin/activate  # On macOS/Linux
 # venv\Scripts\activate  # On Windows
 

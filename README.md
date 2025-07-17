@@ -29,7 +29,7 @@ This approach combines the probabilistic nature of LLMs (for intelligent routing
 
 ### Prerequisites
 
-*   Python 3.10+ and Pip
+*   Python 3.11+ and Pip
 *   Git
 *   A C++ compiler (for building `llama.cpp`)
 *   A powerful GPU (NVIDIA recommended) with sufficient VRAM to run the model.
